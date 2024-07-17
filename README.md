@@ -12,3 +12,6 @@
 ## Connect with Me
 - [LinkedIn]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/hossein-beigi-96a057204/))
 - [Twitter]([https://twitter.com/your-username](https://x.com/hossein266))
+
+![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/your-username/repository-name?style=social)
