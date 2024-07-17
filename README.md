@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I'm [Hossein] 👋
 
-<!--
-**hossein26/hossein26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://gpvc.arturio.dev/your-username)
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 I’m currently working on TechWich
+- 🌱 I’m currently learning new Technologies of android
+- 💬 Ask me about Kotlin, Java & Android
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Programming Languages: Kotlin, Java
+- Tools and Platforms: Android Studio
+
+## Connect with Me
+- [LinkedIn]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/hossein-beigi-96a057204/))
+- [Twitter]([https://twitter.com/your-username](https://x.com/hossein266))
