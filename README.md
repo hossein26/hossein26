@@ -1,7 +1,5 @@
 # Hello, I'm [Hossein] 👋
 
-![Profile views](https://gpvc.arturio.dev/your-username)
-
 ## About Me
 - 🔭 I’m currently working on TechWich
 - 🌱 I’m currently learning new Technologies of android
